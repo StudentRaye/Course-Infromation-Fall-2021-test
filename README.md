@@ -1,2 +1,2 @@
-# Course-Infromation-Fall-2021-test
-Course information regarding CS401
+# Course Infromation Fall 2021
+Course information regarding CS401.
